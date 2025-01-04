@@ -1,11 +1,3 @@
-export function ArticleList() {
-  return (
-    <section className="container mx-auto px-4 py-12">
-      <h2 className="text-2xl font-bold mb-8">Latest Articles</h2>
-      {/* Add your article list content here */}
-    </section>
-  )
-}
 import Image from 'next/image'
 import Link from 'next/link'
 

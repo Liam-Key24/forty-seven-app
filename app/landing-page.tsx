@@ -1,11 +1,11 @@
-import { Header } from '@/components/header'
-import { Hero } from '@/components/hero'
-import { Newsletter } from '@/components/newsletter'
-import { Carousel } from '@/components/carousel'
-import { MustReadSection } from '@/components/must-read-section'
-import { TrendingStories } from '@/components/trending-stories'
-import { MidSection } from '@/components/mid-section'
-import { ArticleList } from '@/components/article-list'
+import { Header } from '../components/header'
+import { Hero } from '../components/hero'
+import { Newsletter } from '../components/newsletter'
+import { Carousel } from '../components/carousel'
+import { MustReadSection } from '../components/must-read-section'
+import { TrendingStories } from '../components/trending-stories'
+import { MidSection } from '../components/mid-section'
+import { ArticleList } from '../components/article-list'
 
 
 export default function LandingPage() {

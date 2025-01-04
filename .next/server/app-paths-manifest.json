@@ -1,1 +1,9 @@
-{}
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/lifestyle/page": "app/lifestyle/page.js",
+  "/travel/page": "app/travel/page.js",
+  "/page": "app/page.js",
+  "/art/page": "app/art/page.js",
+  "/podcast/page": "app/podcast/page.js",
+  "/fashion/page": "app/fashion/page.js"
+}

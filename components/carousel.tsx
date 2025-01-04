@@ -3,7 +3,9 @@
 import { useState } from 'react'
 import { motion } from 'framer-motion'
 import { ChevronLeft, ChevronRight } from 'lucide-react'
-import { CarouselCard } from './carousel-card'
+
+import { CarouselCard } from './carousel_card'
+
 
 const carouselItems = [
   {
