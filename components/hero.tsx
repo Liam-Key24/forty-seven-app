@@ -12,7 +12,7 @@ export function Hero() {
       transition={{ duration: 0.6 }}
       className="container mx-auto px-4 py-12 md:py-24"
     >
-      <div className="relative aspect-[16/9] overflow-hidden rounded-lg">
+      <div className="relative aspect-[10/3] overflow-hidden rounded-sm">
         <Image
           src="/placeholder.svg?height=900&width=1600"
           alt="Life in the Antarctic"
